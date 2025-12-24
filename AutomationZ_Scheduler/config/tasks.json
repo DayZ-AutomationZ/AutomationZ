@@ -1,0 +1,191 @@
+{
+    "tasks": [
+        {
+            "name": "Raid ON",
+            "enabled": true,
+            "profile": "Your Server",
+            "preset": "raids_on",
+            "days": [
+                "Fri"
+            ],
+            "hour": 17,
+            "minute": 58,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "Raids ON"
+            ],
+            "last_run": "2025-12-16 03:32"
+        },
+        {
+            "name": "Raid OFF",
+            "enabled": true,
+            "profile": "Your Server",
+            "preset": "raids_off",
+            "days": [
+                "Tue"
+            ],
+            "hour": 23,
+            "minute": 58,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "Raids OFF"
+            ],
+            "last_run": "2025-12-16 03:33"
+        },
+        {
+            "name": "Raids ON Vanilla",
+            "enabled": true,
+            "profile": "Your Server",
+            "preset": "raids_on_Vanilla",
+            "days": [
+                "Fri"
+            ],
+            "hour": 17,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "Raids ON Vanilla"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Raid OFF Vanilla",
+            "enabled": true,
+            "profile": "Your Server",
+            "preset": "raids_off_Vanilla",
+            "days": [
+                "Sun"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "Raids OFF Vanilla"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Monday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Sun"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 1 Monday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Tuesday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Mon"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 2 Tuesday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Wednesday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Tue"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 3 Wednesday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Thursday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Wed"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 4 Thursday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Friday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Thu"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 5 Friday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Saturday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Fri"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 6 Saturday"
+            ],
+            "last_run": ""
+        },
+        {
+            "name": "Loadout Sunday",
+            "enabled": false,
+            "profile": "Your Server",
+            "preset": "DZB_NEW_Loadouts",
+            "days": [
+                "Sat"
+            ],
+            "hour": 23,
+            "minute": 59,
+            "dry_run": false,
+            "mapping_mode": "selected",
+            "mappings": [
+                "DZB Loadout 7 Sunday"
+            ],
+            "last_run": ""
+        }
+    ]
+}

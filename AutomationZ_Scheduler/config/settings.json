@@ -1,0 +1,8 @@
+{
+    "app": {
+        "timeout_seconds": 20,
+        "tick_seconds": 20,
+        "presets_dir": "C:\\!DayZ - THE LONG HUNT\\AutomationZ_Admin_Control_Center\\AutomationZ_Scheduler\\presets",
+        "auto_start": false
+    }
+}

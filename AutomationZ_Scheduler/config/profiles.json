@@ -1,0 +1,13 @@
+{
+    "profiles": [
+        {
+            "name": "Your Server",
+            "host": "xxxxxxx.gamedata.io",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        }
+    ]
+}
