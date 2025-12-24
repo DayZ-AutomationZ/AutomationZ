@@ -1,0 +1,37 @@
+{
+    "profiles": [
+        {
+            "name": "Server Name",
+            "host": "xxxxxx.gamedata.io",
+            "port": 21,
+            "username": "Username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone",
+            "local_mode": false,
+            "local_root": "/dayzLOCALSERVER",
+            "rcon_host": "65.170.145.122",
+            "rcon_port": 12303,
+            "rcon_password": "password",
+            "nitrado_service_id": "",
+            "nitrado_token": ""
+        },
+        {
+            "name": "Example Profile",
+            "host": "ftp.host.com",
+            "port": 21,
+            "username": "ftpusername",
+            "password": "ftppassword",
+            "tls": false,
+            "root": "/dayzstandalone",
+            "local_mode": false,
+            "local_root": "/dayzLOCALSERVER",
+            "rcon_host": "11.222.333.444",
+            "rcon_port": 12303,
+            "rcon_password": "password",
+            "nitrado_service_id": "",
+            "nitrado_token": ""
+        }
+    ],
+    "active_profile": null
+}

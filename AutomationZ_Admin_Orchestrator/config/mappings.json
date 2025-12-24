@@ -1,0 +1,190 @@
+{
+    "mappings": [
+        {
+            "name": "Raids ON",
+            "local_relpath": "BBP_raid_on.json",
+            "remote_path": "config/BaseBuildingPlus/BBP_Settings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Raids OFF",
+            "local_relpath": "BBP_raid_off.json",
+            "remote_path": "config/BaseBuildingPlus/BBP_Settings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Raids OFF Vanilla",
+            "local_relpath": "cfggameplay_raid_off.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfggameplay.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Raids ON Vanilla",
+            "local_relpath": "cfggameplay_raid_on.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfggameplay.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "messages1 Raids OFF",
+            "local_relpath": "messages1_Raids_OFF.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/messages.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "messages2 Raids ON",
+            "local_relpath": "messages2_Raids_ON.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/messages.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Messages3 Vanilla",
+            "local_relpath": "messages3.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/messages.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Messages4 Vanilla",
+            "local_relpath": "messages4.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/messages.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "NotificationSchedulerSettings1 Raids OFF",
+            "local_relpath": "NotificationSchedulerSettings1_Raids_OFF.json",
+            "remote_path": "config/ExpansionMod/Settings/NotificationSchedulerSettings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "NotificationSchedulerSettings2 Raids ON",
+            "local_relpath": "NotificationSchedulerSettings2_Raids_ON.json",
+            "remote_path": "config/ExpansionMod/Settings/NotificationSchedulerSettings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Expansion Notifications 3",
+            "local_relpath": "NotificationSchedulerSettings3.json",
+            "remote_path": "config/ExpansionMod/Settings/NotificationSchedulerSettings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Expansion Notifications 4",
+            "local_relpath": "NotificationSchedulerSettings4.json",
+            "remote_path": "config/ExpansionMod/Settings/NotificationSchedulerSettings.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 1 Monday",
+            "local_relpath": "DZB_NEW_Loadout_1.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 2 Tuesday",
+            "local_relpath": "DZB_NEW_Loadout_2.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 3 Wednesday",
+            "local_relpath": "DZB_NEW_Loadout_3.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 4 Thursday",
+            "local_relpath": "DZB_NEW_Loadout_4.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 5 Friday",
+            "local_relpath": "DZB_NEW_Loadout_5.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 6 Saturday",
+            "local_relpath": "DZB_NEW_Loadout_6.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "DZB Loadout 7 Sunday",
+            "local_relpath": "DZB_NEW_Loadout_7.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/custom/DZB_Loadout_1.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Weather Winter",
+            "local_relpath": "cfgweather_Winter.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgweather.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Weather Summer",
+            "local_relpath": "cfgweather_Summer.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgweather.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Effect Area 1",
+            "local_relpath": "cfgeffectarea1.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgeffectarea.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Effect Area 2",
+            "local_relpath": "cfgeffectarea2.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgeffectarea.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Effect Area 3",
+            "local_relpath": "cfgeffectarea3.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgeffectarea.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Effect Area 4",
+            "local_relpath": "cfgeffectarea4.json",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/cfgeffectarea.json",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Events 1",
+            "local_relpath": "events1.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/events.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Events 2",
+            "local_relpath": "events2.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/events.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Globals 1",
+            "local_relpath": "globals1.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/globals.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Globals 2",
+            "local_relpath": "globals2.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/globals.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Types 1",
+            "local_relpath": "types1.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/types.xml",
+            "backup_before_overwrite": true
+        },
+        {
+            "name": "Change Types 2",
+            "local_relpath": "types2.xml",
+            "remote_path": "mpmissions/dayzOffline.chernarusplus/db/types.xml",
+            "backup_before_overwrite": true
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+Put your preset files in this folder.
+Example: cfggameplay.json, BBP_Settings.json, etc.

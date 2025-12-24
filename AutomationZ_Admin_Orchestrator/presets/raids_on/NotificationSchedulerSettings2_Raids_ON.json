@@ -1,0 +1,260 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "UTC": 0,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 23,
+            "Minute": 56,
+            "Second": 0,
+            "Title": "WARNING",
+            "Text": "The server will restart in 10 minutes!...",
+            "Icon": "exclamationmark",
+            "Color": "Red"
+        },
+        {
+            "Hour": 5,
+            "Minute": 59,
+            "Second": 0,
+            "Title": "WARNING",
+            "Text": "The server will restart in 10 minutes!...",
+            "Icon": "exclamationmark",
+            "Color": "Red"
+        },
+        {
+            "Hour": 11,
+            "Minute": 59,
+            "Second": 0,
+            "Title": "WARNING",
+            "Text": "The server will restart in 10 minutes!...",
+            "Icon": "exclamationmark",
+            "Color": "Red"
+        },
+        {
+            "Hour": 17,
+            "Minute": 58,
+            "Second": 0,
+            "Title": "WARNING",
+            "Text": "The server will restart in 10 minutes!...",
+            "Icon": "exclamationmark",
+            "Color": "Red"
+        },
+        {
+    "Hour": 0,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 1,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 2,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 3,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 4,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 5,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 6,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 7,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 8,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 9,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 10,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 11,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 12,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 13,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 14,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 15,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 16,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 17,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 18,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 19,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 20,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 21,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 22,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+},
+{
+    "Hour": 23,
+    "Minute": 0,
+    "Second": 0,
+    "Title": "Join our Discord!",
+    "Text": "Press B to open the Party Menu. Go to Server Information for our Discord link — or scan the QR code on the loading screen!",
+    "Icon": "Info",
+    "Color": ""
+}
+    ]
+}

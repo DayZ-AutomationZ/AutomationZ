@@ -1,0 +1,166 @@
+{
+    "mapping_sets": [
+        {
+            "name": "Default",
+            "mapping_names": [
+                "DayZ messages.xml"
+            ]
+        },
+        {
+            "name": "Raids ON",
+            "mapping_names": [
+                "Raids ON",
+                "Raids ON Vanilla",
+                "messages2 Raids ON",
+                "NotificationSchedulerSettings2 Raids ON"
+            ]
+        },
+        {
+            "name": "Raids OFF",
+            "mapping_names": [
+                "Raids OFF",
+                "Raids OFF Vanilla",
+                "messages1 Raids OFF",
+                "NotificationSchedulerSettings1 Raids OFF"
+            ]
+        },
+        {
+            "name": "Expansion Notifications 1",
+            "mapping_names": [
+                "Expansion Notifications 1"
+            ]
+        },
+        {
+            "name": "Expansion Notifications 2",
+            "mapping_names": [
+                "Expansion Notifications 2"
+            ]
+        },
+        {
+            "name": "Expansion Notifications 3",
+            "mapping_names": [
+                "Expansion Notifications 3"
+            ]
+        },
+        {
+            "name": "Expansion Notifications 4",
+            "mapping_names": [
+                "Expansion Notifications 4"
+            ]
+        },
+        {
+            "name": "DZB Loadout 1 Monday",
+            "mapping_names": [
+                "DZB Loadout 1 Monday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 2 Tuesday",
+            "mapping_names": [
+                "DZB Loadout 2 Tuesday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 3 Wednesday",
+            "mapping_names": [
+                "DZB Loadout 3 Wednesday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 4 Thursday",
+            "mapping_names": [
+                "DZB Loadout 4 Thursday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 5 Friday",
+            "mapping_names": [
+                "DZB Loadout 5 Friday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 6 Saturday",
+            "mapping_names": [
+                "DZB Loadout 6 Saturday"
+            ]
+        },
+        {
+            "name": "DZB Loadout 7 Sunday",
+            "mapping_names": [
+                "DZB Loadout 7 Sunday"
+            ]
+        },
+        {
+            "name": "Change Weather Winter",
+            "mapping_names": [
+                "Change Weather Winter"
+            ]
+        },
+        {
+            "name": "Change Weather Summer",
+            "mapping_names": [
+                "Change Weather Summer"
+            ]
+        },
+        {
+            "name": "Change Effect Area 1",
+            "mapping_names": [
+                "Change Effect Area 1"
+            ]
+        },
+        {
+            "name": "Change Effect Area 2",
+            "mapping_names": [
+                "Change Effect Area 2"
+            ]
+        },
+        {
+            "name": "Change Effect Area 3",
+            "mapping_names": [
+                "Change Effect Area 3"
+            ]
+        },
+        {
+            "name": "Change Effect Area 4",
+            "mapping_names": [
+                "Change Effect Area 4"
+            ]
+        },
+        {
+            "name": "Change Events 1",
+            "mapping_names": [
+                "Change Events 1"
+            ]
+        },
+        {
+            "name": "Change Events 2",
+            "mapping_names": [
+                "Change Events 2"
+            ]
+        },
+        {
+            "name": "Change Globals 1",
+            "mapping_names": [
+                "Change Globals 1"
+            ]
+        },
+        {
+            "name": "Change Globals 2",
+            "mapping_names": [
+                "Change Globals 2"
+            ]
+        },
+        {
+            "name": "Change Types 1",
+            "mapping_names": [
+                "Change Types 1"
+            ]
+        },
+        {
+            "name": "Change Types 2",
+            "mapping_names": [
+                "Change Types 2"
+            ]
+        }
+    ]
+}

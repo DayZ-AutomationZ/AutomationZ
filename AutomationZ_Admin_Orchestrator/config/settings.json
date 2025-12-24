@@ -1,0 +1,20 @@
+{
+    "host_type": "Dedicated",
+    "presets_root": "C:\\Users\\DannyBoy\\Downloads\\AutomationZ_AdminOrchestrator_v1.0.0\\presets",
+    "discord": {
+        "webhook": "",
+        "notify_start": true,
+        "notify_success": true,
+        "notify_failure": true,
+        "notify_restart": true,
+        "webhook_url": "https://discord.com/api/webhooks/Your_Webhook_URL",
+        "username": "AutomationZ"
+    },
+    "app": {
+        "timeout_seconds": 25,
+        "tick_seconds": 15
+    },
+    "paths": {
+        "presets_dir": ""
+    }
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!--
+        Server: The Long Hunt
+        Notes:
+        - #name is automatically replaced by the server name
+        - All times are in minutes
+        - onconnect="1" = also show to players shortly after they join
+    -->
+
+    <!-- 1. Short welcome message (once, shortly after connect) -->
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to #name – Hunt, build, survive and trade your loot at the Traders!</text>
+    </message>
+
+    <!-- 2. Main info / vibe (every 45 minutes) -->
+    <message>
+        <repeat>45</repeat>
+        <text>#name – Traders • Zombies • Hunting • Weekend Raids • Cars. Enjoy your stay, survivor.</text>
+    </message>
+
+    <!-- 3. Basic rules (after connect + every 60 minutes) -->
+    <message>
+        <delay>3</delay>
+        <repeat>60</repeat>
+        <onconnect>1</onconnect>
+        <text>RULES: No cheating/duping, no toxic behavior. Respect other survivors and staff. Raiding only in allowed raid times.</text>
+    </message>
+
+    <!-- 4. Safezone rules (every 50 minutes) -->
+    <message>
+        <repeat>50</repeat>
+        <text>SAFEZONES: No PVP, no stealing, no ramming vehicles. Traders are for trading, not killing.</text>
+    </message>
+
+    <!-- 5. Discord info (after connect + every 90 minutes) -->
+    <message>
+        <delay>5</delay>
+        <repeat>90</repeat>
+        <onconnect>1</onconnect>
+        <text>Looking for help, server rules? Join our Discord community! Press B to open the Party Menu. Find the Discord button in the Server Information panel.</text>
+    </message>
+
+    <!-- 6. Weekend raids reminder (every 70 minutes) -->
+    <message>
+        <repeat>70</repeat>
+        <text>RAIDS: Raiding is ONLY allowed during weekend raid hours. Check Discord for exact times and rules.</text>
+    </message>
+
+    <!-- 7. BaseBuildingPlus quick how-to (every 80 minutes) -->
+    <message>
+        <repeat>80</repeat>
+        <text>BaseBuildingPlus: Find a BBP Workbench Kit &amp; BBP Crafting Book. Add 99 nails + planks to start crafting your base parts.</text>
+    </message>
+
+    <!-- 8. Cement mixer tip (every 95 minutes) -->
+    <message>
+        <repeat>95</repeat>
+        <text>BBP Cement Mixer: Place the mixer, add a car/truck battery and 2 bags of cement, then turn it on to produce concrete bricks.</text>
+    </message>
+
+    <!-- 9. Cars & server performance (every 65 minutes) -->
+    <message>
+        <repeat>65</repeat>
+        <text>Cars: Park on flat ground, avoid heavy builds around vehicles and dont log out while driving – help keep the server stable.</text>
+    </message>
+
+    <!-- 11. Anti-combat log / fair play reminder (every 55 minutes) -->
+    <message>
+        <repeat>55</repeat>
+        <text>Fair play: No combat logging, ghosting or abuse of glitches. Play smart but play fair – admins may review logs.</text>
+    </message>
+
+    <!-- 12. Friendly sign-off (every 120 minutes) -->
+    <message>
+        <repeat>120</repeat>
+        <text>Thank you for playing on #name. Consider leaving a favorite and sharing the server with your friends.</text>
+    </message>
+
+</messages>
