@@ -1,0 +1,7 @@
+{
+    "app": {
+        "timeout_seconds": 30,
+        "tick_seconds": 20,
+        "auto_start": false
+    }
+}

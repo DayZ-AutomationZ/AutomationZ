@@ -1,0 +1,43 @@
+{
+    "jobs": [
+        {
+            "name": "TESTJOB",
+            "enabled": true,
+            "profile": "Your Server",
+            "mode": "snapshot",
+            "remote_source": "python_test_map",
+            "local_target": "C:/!DayZ - THE LONG HUNT/AutomationZ_Backup_v1.0.3_Discord/backups",
+            "days": [
+                "Wed",
+                "Sat"
+            ],
+            "hour": 1,
+            "minute": 37,
+            "include_subdirs": true,
+            "keep_last": 10,
+            "dry_run": false
+        },
+        {
+            "name": "FULL Server Backup",
+            "enabled": true,
+            "profile": "Your Server",
+            "mode": "snapshot",
+            "remote_source": "/",
+            "local_target": "C:/!DayZ - THE LONG HUNT/AutomationZ_Backup_v1.0.3_Discord/backups",
+            "days": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat",
+                "Sun"
+            ],
+            "hour": 23,
+            "minute": 5,
+            "include_subdirs": true,
+            "keep_last": 10,
+            "dry_run": false
+        }
+    ]
+}

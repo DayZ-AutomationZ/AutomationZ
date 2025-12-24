@@ -1,0 +1,5 @@
+{
+    "app": {
+        "timeout_seconds": 20
+    }
+}

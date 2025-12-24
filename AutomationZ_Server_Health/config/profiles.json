@@ -1,0 +1,23 @@
+{
+    "profiles": [
+        {
+            "name": "Your Server",
+            "host": "xxxxxx.gamedata.io",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/"
+        },
+        {
+            "name": "test_profile",
+            "host": "ftp.host.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/"
+        }
+    ],
+    "active_profile": "Your Server"
+}

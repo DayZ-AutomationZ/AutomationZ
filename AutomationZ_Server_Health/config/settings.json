@@ -1,0 +1,14 @@
+{
+    "app": {
+        "timeout_seconds": 30,
+        "tick_seconds": 20,
+        "auto_start": false
+    },
+    "discord": {
+        "webhook_url": "https://discord.com/api/webhooks/Your_Discord_Webhook",
+        "notify_start": true,
+        "notify_success": true,
+        "notify_failure": true,
+        "notify_errors": true
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "watches": [
+        {
+            "name": "Server Restart LOG",
+            "enabled": true,
+            "source": "ftp",
+            "path": "/restart.log",
+            "kind": "log"
+        },
+        {
+            "name": "DayZ server_console",
+            "enabled": false,
+            "source": "ftp",
+            "path": "profiles/server_console.log",
+            "kind": "log"
+        }
+    ]
+}
