@@ -1,4 +1,5 @@
 # AutomationZ – DayZ Server Automation Tools
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 **AutomationZ** is a modular collection of automation tools designed to simplify, secure, and professionalize the management of **DayZ game servers**.
 
