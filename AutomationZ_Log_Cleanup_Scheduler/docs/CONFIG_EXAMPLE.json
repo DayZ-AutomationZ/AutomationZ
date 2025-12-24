@@ -1,0 +1,53 @@
+{
+    "app": {
+        "tick_seconds": 15,
+        "timeout_seconds": 25
+    },
+    "ftp_targets": [
+        {
+            "name": "NitradoFTP",
+            "host": "ftp.host.com",
+            "port": 21,
+            "username": "user",
+            "password": "pass",
+            "tls": false
+        }
+    ],
+    "jobs": [
+        {
+            "name": "Remote logs cleanup",
+            "enabled": true,
+            "mode": "ftp",
+            "local_folders": [],
+            "ftp_target": "NitradoFTP",
+            "ftp_folders": [
+                "/dayzstandalone/logs",
+                "/dayzstandalone/storage_1/LogBackups"
+            ],
+            "exclude_files": [
+                "*.json",
+                "*.cfg",
+                "*.xml",
+                "whitelist.txt"
+            ],
+            "exclude_folders": [
+                "config",
+                "settings"
+            ],
+            "schedule_enabled": true,
+            "days": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "hour": 6,
+            "minute": 0,
+            "last_run_key": "",
+            "dry_run": true
+        }
+    ]
+}

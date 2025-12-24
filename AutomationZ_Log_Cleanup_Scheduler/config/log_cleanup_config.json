@@ -1,0 +1,59 @@
+{
+    "app": {
+        "tick_seconds": 15,
+        "timeout_seconds": 25
+    },
+    "ftp_targets": [
+        {
+            "name": "Your Server",
+            "host": "xxxxxx.gamedata.io",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false
+        }
+    ],
+    "jobs": [
+        {
+            "name": "The Long Hunt Server DayZ",
+            "enabled": true,
+            "mode": "ftp",
+            "local_folders": [
+                "C:/TestMap_Logs/TestLogMap1",
+                "C:/TestMap_Logs/TestLogMap2/LOGS",
+                "C:/TestMap_Logs/TestLogMap3/Example_Game/LOGS",
+                "C:/TestMap_Logs/TestLogMap4/Example/LOGS"
+            ],
+            "ftp_target": "Your Server",
+            "ftp_folders": [
+                "/dayzstandalone/TestMap_Logs/TestLogMap1",
+                "/dayzstandalone/TestMap_Logs/TestLogMap2/LOGS",
+                "/dayzstandalone/TestMap_Logs/TestLogMap3/Example_Game/LOGS",
+                "/dayzstandalone/TestMap_Logs/TestLogMap4/Example/LOGS"
+            ],
+            "exclude_files": [
+                "*.json",
+                "*.cfg",
+                "keep_me.txt"
+            ],
+            "exclude_folders": [
+                "config",
+                "settings"
+            ],
+            "schedule_enabled": false,
+            "days": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "hour": 3,
+            "minute": 0,
+            "last_run_key": "",
+            "dry_run": false
+        }
+    ]
+}
