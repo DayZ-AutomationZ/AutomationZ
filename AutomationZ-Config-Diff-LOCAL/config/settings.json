@@ -1,0 +1,22 @@
+{
+    "project_name": "My DayZ Server",
+    "root_path": "/",
+    "files": [
+        {
+            "name": "testfile1.txt",
+            "path": "testmap/testfilemap1/testfile1.txt"
+        },
+        {
+            "name": "testfile2.txt",
+            "path": "testmap/testfilemap2/testfile2.txt"
+        },
+        {
+            "name": "testfile3.txt",
+            "path": "testmap/testfilemap3/testfile3.txt"
+        },
+        {
+            "name": "testfile4.txt",
+            "path": "testmap/testfilemap4/testfile4.txt"
+        }
+    ]
+}
