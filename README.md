@@ -13,13 +13,13 @@ AutomationZ is designed to run standalone **or** as part of **AutomationZ OS (Ad
 Each tool is self-contained and can be run independently.
 
 AutomationZ/
-├── AutomationZ_Admin_Orchestrator
-├── AutomationZ_Log_Cleanup_Scheduler
-├── AutomationZ_Mod_Update_Auto_Deploy
-├── AutomationZ_Scheduler
-├── AutomationZ_Server_Backup_Scheduler
-├── AutomationZ_Server_Health
-└── AutomationZ_Uploader
+─ AutomationZ_Admin_Orchestrator
+─ AutomationZ_Log_Cleanup_Scheduler
+─ AutomationZ_Mod_Update_Auto_Deploy
+─ AutomationZ_Scheduler
+─ AutomationZ_Server_Backup_Scheduler
+─ AutomationZ_Server_Health
+─ AutomationZ_Uploader
 
 
 ### Tool Overview
