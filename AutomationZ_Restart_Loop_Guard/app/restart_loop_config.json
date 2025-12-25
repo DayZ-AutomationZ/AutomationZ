@@ -1,0 +1,24 @@
+{
+  "max_attempts": 3,
+  "time_window_seconds": 300,
+  "backoff_seconds": [
+    0,
+    60,
+    180,
+    300
+  ],
+  "state_file": "attempt_history.json",
+  "lock_file": "restart_loop.lock",
+  "incident_file": "incident_report.json",
+  "log_file": "restart_loop.log",
+  "notify": {
+    "enabled": false,
+    "discord_webhook_url": "https://discord.com/api/webhooks/Your_Discord_Webhook",
+    "include_last_lines": 40,
+    "extra_context": {
+      "server_name": "Your Server Name",
+      "host": "",
+      "notes": ""
+    }
+  }
+}
