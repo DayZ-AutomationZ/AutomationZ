@@ -1,4 +1,4 @@
-# AutomationZ – DayZ Server Automation Tools
+# AutomationZ – DayZ / Gaming Server / Server Park / Raspberry / Website Automation Tools (Multifunctional tools)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 **AutomationZ** is a modular collection of automation tools designed to simplify, secure, and professionalize the management of **DayZ / game servers**.
@@ -14,13 +14,16 @@ AutomationZ is designed to run standalone **or** as part of **AutomationZ OS (Ad
 Each tool is self-contained and can be run independently.
 
 AutomationZ/
-─ AutomationZ_Admin_Orchestrator
-─ AutomationZ_Log_Cleanup_Scheduler
-─ AutomationZ_Mod_Update_Auto_Deploy
-─ AutomationZ_Scheduler
-─ AutomationZ_Server_Backup_Scheduler
-─ AutomationZ_Server_Health
-─ AutomationZ_Uploader
+- AutomationZ_Admin_Orchestrator
+-  AutomationZ_Log_Cleanup_Scheduler
+- AutomationZ_Mod_Update_Auto_Deploy
+- AutomationZ_Scheduler
+- AutomationZ_Server_Backup_Scheduler
+- AutomationZ_Server_Health
+- AutomationZ_Uploader
+- AutomationZ Restart Loop Guard
+- AutomationZ Config Diff
+
 
 
 ### Tool Overview
