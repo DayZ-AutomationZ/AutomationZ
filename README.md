@@ -1,7 +1,7 @@
 # AutomationZ – DayZ / Gaming Server / Server Park / Raspberry / Website Automation Tools (Multifunctional tools)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
-**AutomationZ** is a modular collection of automation tools designed to simplify, secure, and professionalize the management of **DayZ / game servers**.
+**AutomationZ** is a modular collection of automation tools designed to simplify, secure, and professionalize the management of **servers**.
 
 It is built for server owners and admins who want **reliable automation**, **minimal manual work**, and **clear control** over recurring server tasks.
 
