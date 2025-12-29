@@ -140,6 +140,7 @@ It’s about **building a reliable admin platform** that scales with your server
 These tools are part of the AutomationZ Admin Toolkit:
 
 - AutomationZ Mod Update Auto Deploy (steam workshop)
+- AutomationZ Restart Companion (works together with Mod Update Auto Deploy)
 - AutomationZ Uploader
 - AutomationZ Scheduler
 - AutomationZ Server Backup Scheduler
@@ -147,7 +148,7 @@ These tools are part of the AutomationZ Admin Toolkit:
 - AutomationZ Config Diff 
 - AutomationZ Admin Orchestrator
 - AutomationZ Log Cleanup Scheduler
-- AutomationZ Restart Loop Guard
+- AutomationZ_Restart_Loop_Guard
 
 Together they form a complete server administration solution.
 
