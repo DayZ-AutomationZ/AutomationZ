@@ -15,8 +15,9 @@ Each tool is self-contained and can be run independently.
 
 AutomationZ/
 - AutomationZ_Admin_Orchestrator
--  AutomationZ_Log_Cleanup_Scheduler
+- AutomationZ_Log_Cleanup_Scheduler
 - AutomationZ_Mod_Update_Auto_Deploy
+- AutomationZ-Restart-Companion
 - AutomationZ_Scheduler
 - AutomationZ_Server_Backup_Scheduler
 - AutomationZ_Server_Health
