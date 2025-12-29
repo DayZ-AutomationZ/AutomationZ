@@ -1,0 +1,40 @@
+{
+  "app": {
+    "poll_seconds": 30,
+    "auto_start": true
+  },
+  "targets": [
+    {
+      "name": "Your Server",
+      "mode": "ftp",
+      "delay_minutes": 1,
+      "watch_kind": "marker_file",
+      "include_exts": ".pbo,.txt,.json",
+      "marker_file": "automationz_last_deploy.txt",
+      "local_path": "C:/dayzLOCALSERVER",
+      "remote_path": "/dayzstandalone",
+      "ftp": {
+        "host": "ftp.host.com",
+        "user": "username",
+        "password": "password",
+        "port": 21,
+        "tls": 0,
+        "timeout": 12
+      },
+      "action": "rcon_command",
+      "command": "shutdown /r /t 30",
+      "rcon": {
+        "host": "85.122.122.115",
+        "port": 12205,
+        "password": "password",
+        "command": "#shutdown",
+        "timeout": 6,
+        "retries": 3
+      },
+      "discord": {
+        "enabled": false,
+        "webhook_url": "https://discord.com/api/webhooks/Your_Discord_Webhook"
+      }
+    }
+  ]
+}
