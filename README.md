@@ -45,6 +45,10 @@ This tool is designed to reduce downtime and prevent player connection issues ca
 > Entry point: `main.py` (root-level)
 
 ---
+### 🔄 AutomationZ-Restart-Companion
+Detects change in markerfile send by the Mod Update Auto Deploy tool and triggers a restart with configurable delay.
+This tool together with AutomationZ_Mod_Update_Auto_Deploy ELIMINATES PBO Mismatch downtime and prevents player connection issues caused by outdated mods.
+---
 
 ### ⏱ AutomationZ_Scheduler
 Shared scheduling logic used by multiple AutomationZ tools.
